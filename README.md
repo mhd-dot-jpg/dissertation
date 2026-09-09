@@ -1,3 +1,3 @@
-A light propagation volumes implementation my Master's in Computer Science dissertation.
+A light propagation volumes implementation for my Master's in Computer Science dissertation.
 
 ![Render](render.png)
